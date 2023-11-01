@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+    background-color: #10142f;
+    color:whitesmoke;
+
+}
+.header {
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 20em;
+    background: url("assets/img/band.jpeg")no-repeat right top fixed;
+    background-gradient: linear-gradient(to bottom, red, blue);
+
+}
