@@ -13,3 +13,10 @@ body {
     background-gradient: linear-gradient(to bottom, red, blue);
 
 }
+#profile_image {
+    border:solid 1px;
+    border-radius: 30px;
+}
+#profile_name {
+    text-align: center;
+}
